@@ -13,12 +13,12 @@
 	<IPList>
 		<Name>GoogleBots - CIDRv4</Name>
 		<Type>CIDRv4</Type>
-		<File>"C:\Users\user\Documents\GitHub\OPNsense_IP_Lists\Other\GoogleBots - CIDRv4.txt"</File>
+		<File>C:\Users\user\Documents\GitHub\OPNsense_IP_Lists\Other\GoogleBots - CIDRv4.txt</File>
 	</IPList>
 	<IPList>
 		<Name>GoogleBots - CIDRv6</Name>
 		<Type>CIDRv6</Type>
-		<File>"C:\Users\user\Documents\GitHub\OPNsense_IP_Lists\Other\GoogleBots - CIDRv6.txt"</File>
+		<File>C:\Users\user\Documents\GitHub\OPNsense_IP_Lists\Other\GoogleBots - CIDRv6.txt</File>
 	</IPList>
 	<IPList>
 		<Name>FireHol Level 1</Name>
