@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<IPLists>
+	<IPList>
+		<Name>Bad-IP</Name>
+		<Type>IPv4</Type>
+		<File>C:\Users\user\Documents\GitHub\AdGuard-Lists\Other\Bad-IPs.txt</File>
+	</IPList>
+	<IPList>
+		<Name>Bad-CIDR</Name>
+		<Type>CIDRv4</Type>
+		<File>C:\Users\user\Documents\GitHub\AdGuard-Lists\Other\Bad-CIDRs.txt</File>
+	</IPList>
+	<IPList>
+		<Name>Google Bots</Name>
+		<Type>CIDRv4</Type>
+		<File>C:\Users\user\Documents\GitHub\AdGuard-Lists\Other\GoogleBots.txt</File>
+	</IPList>
+	<IPList>
+		<Name>FireHol Level 1</Name>
+		<Type>CIDRv4</Type>
+		<Url>https://raw.githubusercontent.com/firehol/blocklist-ipsets/refs/heads/master/firehol_level1.netset</Url>
+	</IPList>
+	<IPList>
+		<Name>FireHol Level 2</Name>
+		<Type>Mix</Type>
+		<Url>https://raw.githubusercontent.com/firehol/blocklist-ipsets/refs/heads/master/firehol_level2.netset</Url>
+	</IPList>
+	<IPList>
+		<Name>FireHol Level 3</Name>
+		<Type>Mix</Type>
+		<Url>https://raw.githubusercontent.com/firehol/blocklist-ipsets/refs/heads/master/firehol_level3.netset</Url>
+	</IPList>
+	<IPList>
+		<Name>FireHol Webclient</Name>
+		<Type>Mix</Type>
+		<Url>https://raw.githubusercontent.com/firehol/blocklist-ipsets/refs/heads/master/firehol_webclient.netset</Url>
+	</IPList>
+	<IPList>
+		<Name>FireHol Webserver</Name>
+		<Type>Mix</Type>
+		<Url>https://raw.githubusercontent.com/firehol/blocklist-ipsets/refs/heads/master/firehol_webserver.netset</Url>
+	</IPList>
+	<IPList>
+		<Name>OpenDBL etknown</Name>
+		<Type>IPv4</Type>
+		<Url>https://opendbl.net/lists/etknown.list</Url>
+	</IPList>
+	<IPList>
+		<Name>OpenDBL bruteforce</Name>
+		<Type>IPv4</Type>
+		<Url>https://opendbl.net/lists/bruteforce.list</Url>
+	</IPList>
+	<IPList>
+		<Name>OpenDBL blocklistde-all</Name>
+		<Type>IPv4</Type>
+		<Url>https://opendbl.net/lists/blocklistde-all.list</Url>
+	</IPList>
+	<IPList>
+		<Name>OpenDBL sslblock</Name>
+		<Type>IPv4</Type>
+		<Url>https://opendbl.net/lists/sslblock.list</Url>
+	</IPList>
+	<IPList>
+		<Name>OpenDBL ipsum</Name>
+		<Type>IPv4</Type>
+		<Url>https://opendbl.net/lists/ipsum.list</Url>
+	</IPList>
+	
+	
+	<IPList>
+		<Name>ShadowWhisperer BruteForce Extreme</Name>
+		<Type>IPv4</Type>
+		<Url>https://raw.githubusercontent.com/ShadowWhisperer/IPs/master/BruteForce/Extreme</Url>
+	</IPList>
+	<IPList>
+		<Name>pgl.yoyo Ad Servers</Name>
+		<Type>IPv4</Type>
+		<Url>https://pgl.yoyo.org/adservers/iplist.php?ipformat=&amp;showintro=0&amp;mimetype=plaintext</Url>
+	</IPList>
+</IPLists>
