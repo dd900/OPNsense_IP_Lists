@@ -124,4 +124,8 @@
 		<Name>hagezi TIF</Name>
 		<Url>https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/ips/tif.txt</Url>
 	</IPList>
+	<IPList>
+		<Name>Blocklist.de</Name>
+		<Url>https://lists.blocklist.de/lists/all.txt</Url>
+	</IPList>
 </IPLists>
