@@ -2,154 +2,166 @@
 <IPLists>
 	<IPList>
 		<Name>Bad-IP</Name>
-		<File>C:\Users\user\Documents\GitHub\OPNsense_IP_Lists\Other\Bad-IPs.txt</File>
+		<Source>C:\Users\user\Documents\GitHub\OPNsense_IP_Lists\Other\Bad-IPs.txt</Source>
 	</IPList>
 	<IPList>
 		<Name>Bad-CIDR</Name>
-		<File>C:\Users\user\Documents\GitHub\OPNsense_IP_Lists\Other\Bad-CIDRs.txt</File>
+		<Source>C:\Users\user\Documents\GitHub\OPNsense_IP_Lists\Other\Bad-CIDRs.txt</Source>
 	</IPList>
 	<IPList>
 		<Name>FireHol Level 1</Name>
-		<Url>https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/firehol_level1.netset</Url>
+		<Source>https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/firehol_level1.netset</Source>
 	</IPList>
 	<IPList>
 		<Name>FireHol Level 2</Name>
-		<Url>https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/firehol_level2.netset</Url>
+		<Source>https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/firehol_level2.netset</Source>
 	</IPList>
 	<IPList>
 		<Name>FireHol Level 3</Name>
-		<Url>https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/firehol_level3.netset</Url>
+		<Source>https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/firehol_level3.netset</Source>
 	</IPList>
 	<IPList>
 		<Name>FireHol Webclient</Name>
-		<Url>https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/firehol_webclient.netset</Url>
+		<Source>https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/firehol_webclient.netset</Source>
 	</IPList>
 	<IPList>
 		<Name>FireHol Webserver</Name>
-		<Url>https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/firehol_webserver.netset</Url>
+		<Source>https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/firehol_webserver.netset</Source>
 	</IPList>
 	<IPList>
 		<Name>OpenDBL etknown</Name>
-		<Url>https://opendbl.net/lists/etknown.list</Url>
+		<Source>https://opendbl.net/lists/etknown.list</Source>
 	</IPList>
 	<IPList>
 		<Name>OpenDBL bruteforce</Name>
-		<Url>https://opendbl.net/lists/bruteforce.list</Url>
+		<Source>https://opendbl.net/lists/bruteforce.list</Source>
 	</IPList>
 	<IPList>
 		<Name>OpenDBL blocklistde-all</Name>
-		<Url>https://opendbl.net/lists/blocklistde-all.list</Url>
+		<Source>https://opendbl.net/lists/blocklistde-all.list</Source>
 	</IPList>
 	<IPList>
 		<Name>OpenDBL sslblock</Name>
-		<Url>https://opendbl.net/lists/sslblock.list</Url>
+		<Source>https://opendbl.net/lists/sslblock.list</Source>
 	</IPList>
 	<IPList>
 		<Name>OpenDBL ipsum</Name>
-		<Url>https://opendbl.net/lists/ipsum.list</Url>
+		<Source>https://opendbl.net/lists/ipsum.list</Source>
 	</IPList>
 	<IPList>
 		<Name>BotScout</Name>
-		<Url>https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/botscout.ipset</Url>
+		<Source>https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/botscout.ipset</Source>
 	</IPList>
 	<IPList>
 		<Name>ATIF Banlist</Name>
-		<Url>https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/bds_atif.ipset</Url>
+		<Source>https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/bds_atif.ipset</Source>
 	</IPList>
 	<IPList>
 		<Name>CyberCrime</Name>
-		<Url>https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/cybercrime.ipset</Url>
+		<Source>https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/cybercrime.ipset</Source>
 	</IPList>
 	<IPList>
 		<Name>darklist.de ssh fail2ban</Name>
-		<Url>https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/darklist_de.netset</Url>
+		<Source>https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/darklist_de.netset</Source>
 	</IPList>
 	<IPList>
 		<Name>DShield top 20</Name>
-		<Url>https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/dshield.netset</Url>
+		<Source>https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/dshield.netset</Source>
 	</IPList>
 	<IPList>
 		<Name>palevotracker.abuse.ch IP blocklist</Name>
-		<Url>https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/iblocklist_abuse_palevo.netset</Url>
+		<Source>https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/iblocklist_abuse_palevo.netset</Source>
 	</IPList>
 	<IPList>
 		<Name>zeustracker.abuse.ch IP blocklist</Name>
-		<Url>https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/iblocklist_abuse_zeus.netset</Url>
+		<Source>https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/iblocklist_abuse_zeus.netset</Source>
 	</IPList>
 	<IPList>
 		<Name>TalosIntel Known Threats</Name>
-		<Url>https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/talosintel_ipfilter.ipset</Url>
+		<Source>https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/talosintel_ipfilter.ipset</Source>
 	</IPList>
 	<IPList>
 		<Name>URLVir Malware</Name>
-		<Url>https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/urlvir.ipset</Url>
+		<Source>https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/urlvir.ipset</Source>
 	</IPList>
 	<IPList>
 		<Name>ShadowWhisperer BruteForce Extreme</Name>
-		<Url>https://raw.githubusercontent.com/ShadowWhisperer/IPs/master/BruteForce/Extreme</Url>
+		<Source>https://raw.githubusercontent.com/ShadowWhisperer/IPs/master/BruteForce/Extreme</Source>
 	</IPList>
 	<IPList>
 		<Name>ShadowWhisperer BruteForce High</Name>
-		<Url>https://raw.githubusercontent.com/ShadowWhisperer/IPs/master/BruteForce/High</Url>
+		<Source>https://raw.githubusercontent.com/ShadowWhisperer/IPs/master/BruteForce/High</Source>
 	</IPList>
 	<IPList>
 		<Name>ShadowWhisperer Scanners</Name>
-		<Url>https://raw.githubusercontent.com/ShadowWhisperer/IPs/master/Other/Scanners</Url>
+		<Source>https://raw.githubusercontent.com/ShadowWhisperer/IPs/master/Other/Scanners</Source>
 	</IPList>
 	<IPList>
 		<Name>ShadowWhisperer Trackers</Name>
-		<Url>https://raw.githubusercontent.com/ShadowWhisperer/IPs/master/Other/Trackers</Url>
+		<Source>https://raw.githubusercontent.com/ShadowWhisperer/IPs/master/Other/Trackers</Source>
 	</IPList>
 	<IPList>
 		<Name>ShadowWhisperer Ads</Name>
-		<Url>https://raw.githubusercontent.com/ShadowWhisperer/IPs/master/Other/Ads</Url>
+		<Source>https://raw.githubusercontent.com/ShadowWhisperer/IPs/master/Other/Ads</Source>
 	</IPList>
 	<IPList>
 		<Name>ShadowWhisperer Malware Hackers</Name>
-		<Url>https://raw.githubusercontent.com/ShadowWhisperer/IPs/master/Malware/Hackers</Url>
+		<Source>https://raw.githubusercontent.com/ShadowWhisperer/IPs/master/Malware/Hackers</Source>
 	</IPList>
 	<IPList>
 		<Name>ShadowWhisperer Malware Hosting</Name>
-		<Url>https://raw.githubusercontent.com/ShadowWhisperer/IPs/master/Malware/Hosting</Url>
+		<Source>https://raw.githubusercontent.com/ShadowWhisperer/IPs/master/Malware/Hosting</Source>
 	</IPList>
 	<IPList>
 		<Name>romainmarcoux malicious-ip 300k-aa</Name>
-		<Url>https://raw.githubusercontent.com/romainmarcoux/malicious-ip/main/full-300k-aa.txt</Url>
+		<Source>https://raw.githubusercontent.com/romainmarcoux/malicious-ip/main/full-300k-aa.txt</Source>
 	</IPList>
 	<IPList>
 		<Name>romainmarcoux malicious-ip 300k-ab</Name>
-		<Url>https://raw.githubusercontent.com/romainmarcoux/malicious-ip/main/full-300k-ab.txt</Url>
+		<Source>https://raw.githubusercontent.com/romainmarcoux/malicious-ip/main/full-300k-ab.txt</Source>
 	</IPList>
 	<IPList>
 		<Name>romainmarcoux malicious-ip 300k-ac</Name>
-		<Url>https://raw.githubusercontent.com/romainmarcoux/malicious-ip/main/full-300k-ac.txt</Url>
+		<Source>https://raw.githubusercontent.com/romainmarcoux/malicious-ip/main/full-300k-ac.txt</Source>
 	</IPList>
 	<IPList>
 		<Name>blacklist.3coresec.net</Name>
-		<Url>https://blacklist.3coresec.net/lists/all.txt</Url>
+		<Source>https://blacklist.3coresec.net/lists/all.txt</Source>
 	</IPList>
 	<IPList>
 		<Name>abuse.ch SSLBL Botnet C2 IP Blacklist</Name>
-		<Url>https://sslbl.abuse.ch/blacklist/sslipblacklist.txt</Url>
+		<Source>https://sslbl.abuse.ch/blacklist/sslipblacklist.txt</Source>
 	</IPList>
 	<IPList>
 		<Name>ci-badguys</Name>
-		<Url>https://cinsscore.com/list/ci-badguys.txt</Url>
+		<Source>https://cinsscore.com/list/ci-badguys.txt</Source>
 	</IPList>
 	<IPList>
 		<Name>spamhaus drop</Name>
-		<Url>https://www.spamhaus.org/drop/drop.txt</Url>
+		<Source>https://www.spamhaus.org/drop/drop.txt</Source>
 	</IPList>
 	<IPList>
 		<Name>pgl.yoyo Ad Servers</Name>
-		<Url>https://pgl.yoyo.org/adservers/iplist.php?ipformat=&amp;showintro=0&amp;mimetype=plaintext</Url>
+		<Source>https://pgl.yoyo.org/adservers/iplist.php?ipformat=&amp;showintro=0&amp;mimetype=plaintext</Source>
 	</IPList>
 	<IPList>
 		<Name>hagezi TIF</Name>
-		<Url>https://raw.githubusercontent.com/hagezi/dns-blocklists/main/ips/tif.txt</Url>
+		<Source>https://raw.githubusercontent.com/hagezi/dns-blocklists/main/ips/tif.txt</Source>
 	</IPList>
 	<IPList>
 		<Name>Blocklist.de</Name>
-		<Url>https://lists.blocklist.de/lists/all.txt</Url>
+		<Source>https://lists.blocklist.de/lists/all.txt</Source>
 	</IPList>
+	<ExclusionList>
+		<Name>cloudflareCIDRv4</Name>
+		<Source>https://www.cloudflare.com/ips-v4</Source>
+	</ExclusionList>
+	<ExclusionList>
+		<Name>cloudflareCIDRv6</Name>
+		<Source>https://www.cloudflare.com/ips-v6</Source>
+	</ExclusionList>
+	<ExclusionList>
+		<Name>IgnoreList</Name>
+		<Source>C:\Users\user\Documents\GitHub\OPNsense_IP_Lists\Ignore.txt</Source>
+	</ExclusionList>
 </IPLists>
