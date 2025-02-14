@@ -120,14 +120,14 @@
 		<Name>romainmarcoux malicious-ip 300k-ab</Name>
 		<Source>https://raw.githubusercontent.com/romainmarcoux/malicious-ip/main/full-300k-ab.txt</Source>
 	</IPList>
-	<!-- <IPList>
+	<IPList>
 		<Name>romainmarcoux malicious-ip 300k-ac</Name>
 		<Source>https://raw.githubusercontent.com/romainmarcoux/malicious-ip/main/full-300k-ac.txt</Source>
-	</IPList> -->
-	<IPList>
+	</IPList>
+	<!-- <IPList>
 		<Name>blacklist.3coresec.net</Name>
 		<Source>https://blacklist.3coresec.net/lists/all.txt</Source>
-	</IPList>
+	</IPList> -->
 	<IPList>
 		<Name>abuse.ch SSLBL Botnet C2 IP Blacklist</Name>
 		<Source>https://sslbl.abuse.ch/blacklist/sslipblacklist.txt</Source>
